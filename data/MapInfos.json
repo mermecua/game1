@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":811,"scrollY":457.5},
+{"id":2,"expanded":false,"name":"城1F","order":2,"parentId":0,"scrollX":832,"scrollY":1136.5,"quick":false},
+{"id":3,"expanded":false,"name":"村","order":3,"parentId":0,"scrollX":811,"scrollY":483,"quick":false},
+{"id":4,"expanded":false,"name":"どうくつ","order":4,"parentId":0,"scrollX":561,"scrollY":400,"quick":false}
+]
